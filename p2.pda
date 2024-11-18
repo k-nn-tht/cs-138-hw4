@@ -1,4 +1,4 @@
-alphabet: {0, 1, #}
+alphabet: {1, 2, 3, 4}
 start: q0
 accepting: {q6}
 
